@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "350431843221",
+    "firebase_url": "https://data-c9b1b-default-rtdb.firebaseio.com",
+    "project_id": "data-c9b1b",
+    "storage_bucket": "data-c9b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350431843221:android:c50b114c5aaf8b8e541c9c",
+        "android_client_info": {
+          "package_name": "com.ducanh010120.appfall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2zxZk7aL2S4B2-VZklmzfq6H1ajozBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
