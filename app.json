@@ -23,7 +23,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ducanh010120.appfall"
     },
     "android": {
       "googleServicesFile": "./google-services.json",
